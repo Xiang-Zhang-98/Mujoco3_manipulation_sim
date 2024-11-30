@@ -1,0 +1,2820 @@
+Sat Dec  2 23:33:49 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 17. The simulation is unstable. Time = 5242.0700.
+
+Sat Dec  2 23:33:52 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 16.3100.
+
+Sat Dec  2 23:36:32 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 5839.8400.
+
+Sat Dec  2 23:40:18 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 6659.6700.
+
+Sat Dec  2 23:45:47 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 7804.5800.
+
+Sat Dec  2 23:47:14 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 8098.3600.
+
+Sat Dec  2 23:49:01 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 372.1800.
+
+Sat Dec  2 23:50:30 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 8771.7600.
+
+Sat Dec  2 23:51:59 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 9079.1600.
+
+Sat Dec  2 23:53:15 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 9342.2400.
+
+Sat Dec  2 23:54:56 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 910.1500.
+
+Sat Dec  2 23:56:21 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 9961.9500.
+
+Sat Dec  2 23:56:50 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 2248.6600.
+
+Sat Dec  2 23:57:35 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 1745.6500.
+
+Sun Dec  3 00:03:51 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 1267.9800.
+
+Sun Dec  3 00:13:44 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 13491.3600.
+
+Sun Dec  3 00:13:48 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 2023.4900.
+
+Sun Dec  3 00:14:29 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 13660.0500.
+
+Sun Dec  3 00:31:43 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 17164.3300.
+
+Sun Dec  3 00:35:54 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 12763.2300.
+
+Sun Dec  3 00:36:46 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 8507.9000.
+
+Sun Dec  3 00:44:59 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 925.4900.
+
+Sun Dec  3 00:53:09 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 3303.2800.
+
+Sun Dec  3 10:09:05 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 18. The simulation is unstable. Time = 3042.0100.
+
+Sun Dec  3 10:12:11 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 3656.2900.
+
+Sun Dec  3 10:15:22 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 4268.4200.
+
+Sun Dec  3 10:34:37 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 3098.6800.
+
+Sun Dec  3 10:35:36 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 3290.1700.
+
+Sun Dec  3 10:36:48 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 3521.3900.
+
+Sun Dec  3 10:37:34 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 563.9800.
+
+Sun Dec  3 10:38:53 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 3919.2600.
+
+Sun Dec  3 10:39:02 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 3950.8200.
+
+Sun Dec  3 10:42:43 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 4642.8900.
+
+Sun Dec  3 10:42:44 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 4650.4600.
+
+Sun Dec  3 10:43:47 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 17. The simulation is unstable. Time = 921.6500.
+
+Sun Dec  3 10:43:49 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 4854.5100.
+
+Sun Dec  3 10:46:46 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 2117.9500.
+
+Sun Dec  3 10:48:30 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 5735.8000.
+
+Sun Dec  3 10:51:18 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 6264.3300.
+
+Sun Dec  3 10:52:04 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 6412.6000.
+
+Sun Dec  3 10:54:28 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 6858.2200.
+
+Sun Dec  3 10:55:45 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 1696.6200.
+
+Sun Dec  3 10:55:49 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 854.4100.
+
+Sun Dec  3 10:59:28 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 3144.2600.
+
+Sun Dec  3 11:00:12 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 7939.6200.
+
+Sun Dec  3 11:02:47 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 177.1400.
+
+Sun Dec  3 11:04:10 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 752.8000.
+
+Sun Dec  3 11:09:07 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 5772.3100.
+
+Sun Dec  3 11:15:05 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 1706.7000.
+
+Sun Dec  3 11:17:33 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 6900.0200.
+
+Sun Dec  3 11:19:00 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 3992.9800.
+
+Sun Dec  3 11:19:45 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 7595.4700.
+
+Sun Dec  3 11:21:41 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 5196.2700.
+
+Sun Dec  3 11:24:33 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 17. The simulation is unstable. Time = 12127.4600.
+
+Sun Dec  3 11:26:19 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 17. The simulation is unstable. Time = 12450.3300.
+
+Sun Dec  3 11:29:58 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 13099.6600.
+
+Sun Dec  3 11:36:25 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 14251.9100.
+
+Sun Dec  3 11:37:35 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 2428.2500.
+
+Sun Dec  3 11:42:39 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 6056.6800.
+
+Sun Dec  3 11:49:05 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 5357.7800.
+
+Sun Dec  3 12:01:09 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 4328.2300.
+
+Sun Dec  3 12:02:15 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 7511.6300.
+
+Sun Dec  3 12:03:28 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 2502.4600.
+
+Sun Dec  3 12:07:49 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 1489.5200.
+
+Sun Dec  3 12:08:26 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 8987.5500.
+
+Sun Dec  3 12:13:05 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 5294.3900.
+
+Sun Dec  3 12:18:17 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 898.2100.
+
+Sun Dec  3 12:29:41 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 11064.1700.
+
+Sun Dec  3 14:03:51 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 841.7500.
+
+Mon Dec  4 17:19:18 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 10945.0800.
+
+Mon Dec  4 17:21:47 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 18. The simulation is unstable. Time = 11367.0200.
+
+Mon Dec  4 17:25:30 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 11987.1200.
+
+Mon Dec  4 17:36:42 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 13837.7400.
+
+Mon Dec  4 17:44:41 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 15147.2600.
+
+Mon Dec  4 18:04:45 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 18430.3900.
+
+Mon Dec  4 18:06:06 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 18625.4100.
+
+Mon Dec  4 18:11:40 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 8603.6800.
+
+Mon Dec  4 22:56:14 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 2039.9200.
+
+Mon Dec  4 23:57:48 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 14132.6200.
+
+Tue Dec  5 01:06:07 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 24348.3500.
+
+Tue Dec  5 01:18:15 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 28550.9200.
+
+Tue Dec  5 01:19:33 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 17. The simulation is unstable. Time = 28763.6400.
+
+Tue Dec  5 01:21:39 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 29155.3800.
+
+Tue Dec  5 01:24:16 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 29616.6000.
+
+Tue Dec  5 01:40:07 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 18434.4100.
+
+Tue Dec  5 01:48:16 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 34109.3700.
+
+Tue Dec  5 01:49:43 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 5220.4800.
+
+Tue Dec  5 02:03:48 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 37044.9900.
+
+Tue Dec  5 02:39:19 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 43752.2700.
+
+Tue Dec  5 02:44:53 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 16253.6700.
+
+Tue Dec  5 02:59:57 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 10587.4200.
+
+Tue Dec  5 03:10:53 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 2064.0600.
+
+Tue Dec  5 03:16:51 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 7059.7100.
+
+Tue Dec  5 03:18:27 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 51107.7000.
+
+Tue Dec  5 03:18:47 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 24790.8500.
+
+Tue Dec  5 03:22:54 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 19378.1300.
+
+Tue Dec  5 03:33:26 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 53946.2600.
+
+Tue Dec  5 03:38:46 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 2991.7400.
+
+Tue Dec  5 05:37:11 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 77948.7400.
+
+Tue Dec  5 10:12:01 2023
+ERROR: Auxiliary buffer size exceeds maximum allowed by OpenGL implementation
+
+Tue Dec  5 11:12:43 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 6474.2800.
+
+Tue Dec  5 11:33:49 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 10175.1500.
+
+Tue Dec  5 15:07:52 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 46131.9800.
+
+Wed Dec  6 00:32:08 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 8924.7500.
+
+Wed Dec  6 11:56:37 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 541.3400.
+
+Wed Dec  6 12:27:20 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 5082.1200.
+
+Wed Dec  6 12:45:17 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 17. The simulation is unstable. Time = 8574.0200.
+
+Wed Dec  6 12:56:25 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 10410.8200.
+
+Wed Dec  6 13:09:35 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 12579.9900.
+
+Wed Dec  6 13:42:27 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 17816.0300.
+
+Wed Dec  6 14:07:38 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 21967.7200.
+
+Wed Dec  6 14:08:47 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 22172.7400.
+
+Wed Dec  6 15:00:33 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 30750.7900.
+
+Wed Dec  6 15:08:52 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 17. The simulation is unstable. Time = 32124.1400.
+
+Wed Dec  6 15:23:21 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 34531.0500.
+
+Wed Dec  6 15:35:59 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 18810.0700.
+
+Wed Dec  6 15:46:56 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 25509.2900.
+
+Wed Dec  6 15:57:40 2023
+WARNING: Nan, Inf or huge value in QPOS at DOF 16. The simulation is unstable. Time = 40239.4600.
+
+Wed Dec  6 16:37:07 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 46785.2300.
+
+Mon Dec 11 14:02:19 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 2.4300.
+
+Mon Dec 11 14:02:19 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 1.6700.
+
+Mon Dec 11 14:02:19 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 16. The simulation is unstable. Time = 0.8400.
+
+Mon Dec 11 14:03:00 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 16. The simulation is unstable. Time = 2.7600.
+
+Mon Dec 11 14:03:00 2023
+WARNING: Nan, Inf or huge value in QVEL at DOF 17. The simulation is unstable. Time = 2.1100.
+
+Thu Apr 18 14:54:25 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:13 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:14 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:15 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:16 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:09:17 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:48 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:49 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:50 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:51 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:52 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:37:52 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 15:39:27 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:08:38 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:12:07 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:21:10 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:24:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:24:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:24:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:29:37 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:30:32 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:30:32 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:30:32 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+
+Thu Apr 18 16:41:12 2024
+WARNING: mjc_MeshSDF: too many bounding volumes, some contacts may be missed
+

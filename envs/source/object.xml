@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco model="fanuc_lrmate_jaw">
+    <compiler angle="radian" meshdir="robot_mesh/" coordinate="local"/>
+    <option timestep="0.008" gravity="0 0 -10" />
+    <size nconmax="100" njmax="500"/>
+
+    <default>
+        <geom friction=".5 .1 .1" conaffinity="1" condim="1" contype="1" margin="0.0005"/>
+    </default>
+
+    <worldbody>
+        <body name='object_1'>
+            <geom name='object_geom_1' type="box" pos="0.5 0.0 1.5" quat="1 0 0 0" size="0.07 0.07 0.07" density="100"/>
+            <freejoint/>
+            <!-- <joint armature="0" damping="0" limited="false" type="free" name="root" pos="0 0 0.15" stiffness="0"/> -->
+        </body>
+
+        <!-- <body name='object_2'>
+            <geom name='object_geom_2' type="box" pos="0.5 0.5 1.5" quat="1 0 0 0" size="0.07 0.07 0.07" density="100"/>
+            <freejoint/>
+        </body> -->
+
+        <body name="floor" pos="0 0 -0.02">
+            <geom size="2 2 0.02" density="0" rgba=".4 .6 .8 1" type="box"/>
+        </body>
+
+
+    </worldbody>
+    
+</mujoco>
+

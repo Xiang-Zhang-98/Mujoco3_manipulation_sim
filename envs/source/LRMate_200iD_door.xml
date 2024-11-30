@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mujoco model="fanuc_lrmate_jaw">
+    <compiler angle="radian" meshdir="robot_mesh/" coordinate="local" settotalmass="1"/>
+    <option timestep="0.01" gravity="0 0 -10" noslip_iterations="200" iterations="20" integrator="RK4" />
+    <!-- option refer to: http://www.mujoco.org/forum/index.php?threads/default-simulation-parameters-do-not-facilitate-simple-grips.2198/ -->
+    <!-- impratio="5" -->
+    <size nconmax="100" njmax="500"/>
+
+    <default>
+        <geom contype='1' conaffinity='1' condim='4'  margin="0" solref=".02 1" solimp=".8 .9 .001" />
+        <joint armature="0.04" damping="1" limited="true" />
+        <!-- <geom friction="1 .005 .0001" conaffinity="1" condim="4" contype="1" margin="0" solref=".02 1" solimp=".8 .9 .001"/> -->
+
+    </default>
+
+    <actuator>
+        <motor ctrllimited="true" ctrlrange="-5.0 5.0" gear="1.0" joint="joint1" name="act1"/>
+        <motor ctrllimited="true" ctrlrange="-5.0 5.0" gear="1.0" joint="joint2" name="act2"/>
+        <motor ctrllimited="true" ctrlrange="-5.0 5.0" gear="1.0" joint="joint3" name="act3"/>
+        <motor ctrllimited="true" ctrlrange="-5.0 5.0" gear="1.0" joint="joint4" name="act4"/>
+        <motor ctrllimited="true" ctrlrange="-5.0 5.0" gear="1.0" joint="joint5" name="act5"/>
+        <motor ctrllimited="true" ctrlrange="-5.0 5.0" gear="1.0" joint="joint6" name="act6"/>
+
+        <position ctrllimited="true" ctrlrange="0 0.0435" joint="jointf1" kp="30" name="actf1"/>
+        <position ctrllimited="true" ctrlrange="0 0.0435" joint="jointf2" kp="30" name="actf2"/>
+    </actuator>
+
+    <asset>
+        <mesh file="Base.STL" name="base" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Link1.STL" name="link1" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Link2.STL" name="link2" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Link3.STL" name="link3" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Link4.STL" name="link4" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Link5.STL" name="link5" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Link6.STL" name="link6" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Sensor.STL" name="sensor" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Palm.STL" name="palm" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Finger1.STL" name="finger1" scale="0.001 0.001 0.001"></mesh>
+        <mesh file="Finger2.STL" name="finger2" scale="0.001 0.001 0.001"></mesh>
+        <mesh name="peg" file="peg_square_399.stl" scale="0.0095 0.0095 0.01"/>
+        <mesh name="hole" file="hole_square_400.stl" scale="0.01 0.01 0.01"/>
+
+        <texture name="skybox" type="skybox" builtin="gradient" rgb1=".4 .6 .8" rgb2="0 0 0" width="1024" height="1024" mark="random" markrgb="1 1 1"/>
+        <texture name="texplane" type="2d" builtin="checker" rgb1=".2 .3 .4" rgb2=".1 0.15 0.2" width="512" height="512" mark="cross" markrgb=".8 .8 .8"/>
+        <material name="matplane" reflectance="0.3" texture="texplane" texrepeat="1 1" texuniform="true"/>
+
+        <texture file="textures/light-wood.png" type="cube" name="light-wood" />
+
+        <texture file="textures/dark-wood.png" type="cube" name="dark-wood" />
+        <texture file="textures/brass-ambra.png" type="cube" name="metal" />
+        <material name="MatMetal" texture="metal" specular="1" shininess="0.3" rgba="0.9 0.9 0.9 1" />
+        <material name="MatDarkWood" texture="dark-wood" texrepeat="3 3" specular="0.4" shininess="0.1" />
+        <material name="MatLightWood" texture="light-wood" texrepeat="3 3" specular="0.4" shininess="0.1" />
+
+    </asset>
+
+    <worldbody>
+        <light directional="true" diffuse=".8 .8 .8" specular="0.1 0.1 0.1" pos="0 0 2.5" dir="0 0 -1" castshadow="false"/>
+        <geom name="ground" type="plane" size="7 7 1" pos="0 0 0" quat="1 0 0 0" material="matplane" condim="1" friction="0.3"/>
+        <body name="base">
+	        <inertial diaginertia="0 0 0" mass="0" pos="0 0 0" quat="0 0 0 0"/>
+            <geom type="mesh" mesh="base" name="base" pos="0 0 0.33" rgba="0.5 0.5 0.5 1"></geom>
+	        <body name="link1">
+	            <inertial diaginertia="0.0233 0.0194 0.0139" mass="2.3984" pos="0.0186 0.0034 -0.0771" quat="0.7071 -0.7071 0 0"></inertial>
+		        <joint axis="0 0 1" name="joint1" range="-3.1416 3.1416" type="hinge"/>
+                <geom type="mesh" mesh="link1" name="link1" pos="0.05 0.0 0.33" quat="0.7071 -0.7071 0 0" rgba="1 1 0 1"></geom>
+		        <body name="link2">
+	                <inertial diaginertia="0.0329 0.2070 0.1884" mass="7.8019" pos="-0.0071 -0.1326 0.0248" quat="0 0.7071 -0.7071 0"></inertial>
+		            <joint axis="0 1 0" pos="0.05 0.0 0.33" name="joint2" range="-2.129 2.129" type="hinge"/>
+                    <geom type="mesh" mesh="link2" name="link2" pos="0.05 0.0 0.77" euler="1.57 0 1.57" rgba="1 1 0 1"></geom>
+                    <body name="link3">
+		                <inertial diaginertia="0.0081 0.0069 0.0080" mass="2.9847" pos="0.0058 -0.0059 -0.0207" quat="0 0.7071 -0.7071 0"></inertial>
+                        <joint axis="0 -1 0" pos="0.05 0.0 0.77" name="joint3" range="-3.1416 3.1416" type="hinge"/>
+                        <geom type="mesh" mesh="link3" name="link3" pos="0.05 0.0 0.805" euler="1.57 -1.57 1.57" rgba="1 1 0 1"></geom>
+                        <body name="link4">
+                            <inertial diaginertia="0.0529 0.0057 0.0532" mass="4.1442" pos="-0.0002 0.0028 -0.2061" quat="0.7071 0.7071 0 0"></inertial>
+                            <joint axis="-1 0 0" pos="0.47 0.0 0.805" name="joint4" range="-3.1416 3.1416" type="hinge"/>
+                            <geom type="mesh" mesh="link4" name="link4" pos="0.47 0.0 0.805" euler="1.57 0 1.57" rgba="1 1 0 1"></geom>
+                            <body name="link5">
+                                <inertial diaginertia="0.0025 0.0024 0.0012" mass="1.7004" pos="0.0000 -0.0274 -0.0044" quat="0.7071 -0.7071 0 0"></inertial>
+                                <joint axis="0 -1 0" pos="0.47 0.0 0.805" name="joint5" range="-2.182 2.182" type="hinge"/>
+                                <geom type="mesh" mesh="link5" name="link5" pos="0.47 0.0 0.805" euler="1.57 -1.57 1.57" rgba="1 1 0 1"></geom>
+                                <body name="link6">
+                                    <inertial diaginertia="0.00003 0.00003 0.00005" mass="1.1700" pos="0.0 0.0 -0.08" quat="0 1 0 0"></inertial>
+                                    <joint axis="1 0 0" pos="0.55 0.0 0.805" name="joint6" range="-3.1416 3.1416" type="hinge"/>
+                                    <geom type="mesh" mesh="link6" name="link6" pos="0.55 0.0 0.805" euler="1.57 1.57 1.57" rgba="0 0 0 1"></geom>
+                                    <!-- <site name="vertex1" pos="0.55 0.0 0.805" euler="1.57 1.57 1.57" type="sphere" size="0.1" rgba="0.6 0.8 0.1 1"/> -->
+                                    <body name="sensor">
+            				            <geom type="mesh" mesh="sensor" name="sensor" pos="0.62 -0.0325 0.7725" euler="0 -1.57 0" rgba="0.7 0.7 0.7 1"></geom>
+<!--                                        <site name="ft_frame" pos="0.62 -0.0325 0.7725" euler="0 -1.57 0" size="0.01 0.01 0.01" rgba="1 0 0 1" type="sphere" group="1"/>-->
+					                    <!-- <site name="vertex1" pos="0.62 -0.0325 0.7725" euler="0 -1.57 0" type="sphere" size="0.05" rgba="0.6 0.8 0.1 1"/> -->
+                                        <body name="peg" pos="0.503 -0.00 0.805" euler="0 0 0">
+<!--                                        <site name="vertex1" pos="-0.0079 -0.0079 -0.005" type="sphere" size="0.0005" rgba="0.6 0.8 0.1 1"/>-->
+                                            <site name="vertex1" pos="0.25 -0.00 -0.0" type="sphere" size="0.01" rgba="0.6 0.8 0.1 1"/>
+                                            <geom name="peg_pole" pos="0.25 0.0 0.0" type="cylinder" size="0.015 0.05" contype="1" euler="0 1.5707963 0" conaffinity="1" rgba="1 0 0 1"  friction="0.7"/>
+                                            <geom name="peg_tip" pos="0.3 0.0 0.0" type="cylinder" size="0.015 0.015" contype="1" euler="1.5707963 0 0" conaffinity="1" rgba="1 0 0 1"  friction="0.7"/>
+                                            <!-- <geom name="peg_geom" pos="0.3 0.0 0.0" type="mesh" mesh="peg" contype="1" euler="0 1.5707963 0" conaffinity="1" rgba="1 0 0 1"  friction="0.3"/> -->
+                                        </body>
+                                        <body name="palm">
+                                            <geom type="mesh" mesh="palm" name="palm" pos="0.703 -0.07 0.7875" euler="0 0 1.57" rgba="0.7 0.7 0.7 1"></geom>
+                                            <body name="finger1">
+            				                    <geom type="mesh" mesh="finger1" name="finger1" solimp="0.99 0.99 0.01" solref="0.01 1" pos="0.700 -0.047 0.7875" euler="1.57 0 0" rgba="0.7 0.7 0.7 1"></geom>
+                                                <joint axis="0 1 0" pos="0 0 0" name="jointf1" damping="3" range="0 0.0435" type="slide"/>
+                                            </body>
+					                        <body name="finger2">
+            				                    <geom type="mesh" mesh="finger2" name="finger2" solimp="0.99 0.99 0.01" solref="0.01 1" pos="0.700 0.047 0.7875" euler="1.57 0 0" rgba="0.7 0.7 0.7 1"></geom>
+<!--                                                <geom name="peg_geom" pos="0.55 0.0 0.905" type="mesh" mesh="peg" contype="1" conaffinity="1" rgba="1 0 0 1"/>-->
+                                                <joint axis="0 -1 0" pos="0 0 0" name="jointf2" damping="3" range="0 0.0435" type="slide"/>
+				                            </body>
+				                        </body>
+				                    </body>
+				                </body>
+			                </body>
+			            </body>
+		            </body>
+                </body>
+            </body>
+        </body>
+
+        <body name="object">
+          <body name="frame" pos="0.7 -0.4 0.3" quat="0 0 0 -1">
+              <inertial pos="0.3 0 0" quat="0.5 0.5 0.5 0.5" mass="7.85398" diaginertia="0.923301 0.764585 0.168533" />
+              <!-- <geom size="0.03 0.3" pos="0.555 0 0" type="cylinder" rgba="1 1 1 1" group="1" name="r_frame"/>
+              <geom size="0.03 0.3" pos="0.045 0 0" type="cylinder" rgba="1 1 1 1" group="1" name="l_frame"/> -->
+              <body name="door" pos="0.3 0 0">
+                  <inertial pos="0.0296816 -0.00152345 0" quat="0.701072 0 0 0.713091" mass="2.43455" diaginertia="0.0913751 0.0521615 0.043714" />
+                  <joint name="hinge" pos="0.255 0 0" axis="0 0 1" range="0.0 0.001" damping="1" frictionloss="1" limited="true"/>
+                  <geom size="0.22 0.02 .29" type="box" friction="1 1 1" group="1" name="panel" material="MatDarkWood"/>
+                  <body name="latch" pos="-0.05 -0 -0.025">
+                      <inertial pos="-0.017762 0.0138544 0" quat="0.365653 0.605347 -0.36522 0.605365" mass="0.1" diaginertia="0.0483771 0.0410001 0.0111013" />
+                      <joint axis="0 1 0" damping="0.0" frictionloss="0.1" limited="true" name="Door_latch_joint" pos="0 0 0" range="-1.57 1.57" springref="0" stiffness="0.2" />
+                      <geom fromto="0 0 0 0 -0.07 0" size="0.01" type="cylinder" group="1" name="handle_base" material="MatMetal"/>
+                      <geom size="0.05 0.004 0.0075" pos="0.05 -0.07 0" type="box" group="1" name="handle" material="MatMetal"/>
+                      <!-- Don't render the door handle site by default -->
+                      <site name="handle" pos="0.125 -0.10 0" size="0.02" rgba="0 0 1 0" />
+                  </body>
+              </body>
+          </body>
+        </body>
+    </worldbody>
+
+    <sensor>
+        <force name="force_ee" site="vertex1"/>
+        <torque name="torque_ee" site="vertex1"/>
+    </sensor>
+
+</mujoco>
